@@ -46,7 +46,7 @@ In the dataset provided, you will notice that there are three columns named 'cas
 
 ## Acknowledgements
 Give credit here.
-- This project was done in order to complete Upgrad's Lending Club Case Study Assignment
+- This project was done in order to complete Upgrad's Bike Sharing Assignment
 - References :
     - https://matplotlib.org/stable/api/_as_gen/matplotlib.pyplot.html
     - https://seaborn.pydata.org/
